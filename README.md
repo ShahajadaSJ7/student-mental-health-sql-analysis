@@ -32,16 +32,3 @@ Fields: `stay`, `todep`, `tosc`, `toas`, `inter_dom`
 
 ## 🔗 Source
 DataCamp Project — *Analyzing Students' Mental Health*
-```
-
-3. Click **"Commit changes"**
-
----
-
-## What It Should Look Like After
-```
-student-mental-health-sql-analysis/
-├── README.md          ✅ rich, formatted
-├── analysis.sql       ✅ commented query
-└── results/
-    └── query_output.png  ✅ visual proof
